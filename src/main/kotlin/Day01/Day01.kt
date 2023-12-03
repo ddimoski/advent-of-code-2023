@@ -3,7 +3,7 @@ package Day01
 import readInput
 import java.util.regex.Pattern
 
-fun main(args: Array<String>) {
+fun main() {
 
     // part 1
     val input = readInput("Day01")
